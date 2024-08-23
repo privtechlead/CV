@@ -110,8 +110,8 @@ https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
 ## Conferences and Webinars ![images](https://github.com/user-attachments/assets/e7eb335c-8078-4c97-bc96-62c1d6e2e53b)
 
 * __RADAR AI: Data in the Age of ChatGPT & AI__
-* __GRC Request for Proposal Process__
-* __GRC Compliance and Ethics__
-* __GRC Audit and Assurance__
-* __Foundations of Breach and Attack Simulations__
-* __Cloud Security Done Right__
+* __OCEG: GRC Request for Proposal Process__
+* __OCEG: GRC Compliance and Ethics__
+* __OCEG: GRC Audit and Assurance__
+* __AttackIQ: Foundations of Breach and Attack Simulations__
+* __AttackIQ: Cloud Security Done Right__
