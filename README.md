@@ -16,3 +16,16 @@ CompTIA Security+ Certified
 https://github.com/privtechlead/RCM-badge/blob/main/README.md
 
 * __Classic Risk Assessment Fundamentals__
+https://github.com/privtechlead/risk-assessment-badge/blob/main/README.md
+
+*  __Preparing a Cyber Crisis Management Plan__
+https://github.com/privtechlead/crisis-planner-badge
+
+* __Writing a Report on Security Incident__
+https://github.com/privtechlead/security-incident-badge/blob/main/README.md
+
+
+## Skills ![images](https://github.com/user-attachments/assets/f62ab3bd-db8e-48a9-8062-a90376835e79)
+
+
+*  __CISCO Networking Basics__
