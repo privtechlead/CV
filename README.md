@@ -29,3 +29,15 @@ https://github.com/privtechlead/security-incident-badge/blob/main/README.md
 
 
 *  __CISCO Networking Basics__
+https://github.com/privtechlead/networking-badge/blob/main/README.md
+
+ * __Security Operations Center Fundamentals__
+https://github.com/privtechlead/soc-fundamentals-badge/blob/main/README.md
+
+ * __Amazon Web Services Identity and Access Management__
+https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
+
+* __Technical Writing__
+
+
+## Languages and Scripting   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
