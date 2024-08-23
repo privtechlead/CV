@@ -41,3 +41,16 @@ https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
 
 
 ## Languages and Scripting   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
+* __Python for Blue Team__
+https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
+
+*  __Introduction to Powershell__
+https://github.com/privtechlead/powershell-badge/blob/main/README.md
+
+* __Introduction to Bash Scripting__
+
+
+
+## Operating Systems 
+
+* __Windows__
