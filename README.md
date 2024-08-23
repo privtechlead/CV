@@ -54,3 +54,64 @@ https://github.com/privtechlead/powershell-badge/blob/main/README.md
 ## Operating Systems 
 
 * __Windows__
+* __MacOS__
+* __Linux__
+
+
+## Software and Tools  
+
+* __Masetering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
+
+* __Introduction to Splunk__
+https://github.com/privtechlead/splunk-certificate/blob/main/README.md
+
+* __Introduction to Splunk SOAR__
+https://github.com/privtechlead/splunk-soar-certificate/blob/main/README.md
+
+* __ServiceNow__
+https://github.com/privtechlead/servicenow-badge/blob/main/README.md
+
+
+## Labs and Projects   ![Untitled](https://github.com/user-attachments/assets/98c1eba0-8819-41f7-9e4f-875a4200eb5a)
+
+* __Masetering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
+* __CISCO Networking Basics__
+https://github.com/privtechlead/networking-badge/blob/main/README.md
+* __Python for Blue Team__
+https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
+
+
+## Acts, Orders, Regulations, Frameworks, Models,   ![Untitled](https://github.com/user-attachments/assets/2d50030e-1759-43b9-8e62-f781e501c6b4)
+## Policies, and Guides
+
+* __NIST _ National Institute of Standards and Technology__
+* __ISO/IEC 27001 _ International Standard for Information Security Management__
+* __FISMA Act _ Federal Information Security Modernization Act of 2014__
+* __GLBA _ Gramm-Leach-Bliley Act__
+* __PCI DSS _ Payment Card Industry Data Security Standard__
+* __HIPAA _ Health Insurance Portability and Accountability Act__
+* __GDPR _ General Data Protection Regulation__
+* __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
+* __NIST AI Risk Management franework _ National Institute of Standards and Technology__
+* __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
+* __MITRE ATT&CK for Enterprise__
+* __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
+* __CISA Cross-Sector Cybersecurity Performance Goals - Cybersecurity and Infrastructure Security Agency__
+* __Gartner's AI TRISM framework (Trust, Risk, and Security Management)__
+* __Safe, Secure, Trustworthy Executive Order 14110 (Oct 2023)__
+* __European Union Artificial Intelligence Act__
+* __European Union Artificial Intelligence Act Readiness Assessment__
+* __OECD AI Risk Management framework _ Organization for Economic Co-operation and Development__
+* __OCEG GRC Compatibility Model v3.5__
+* __Cyber Kill Chain__
+https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
+
+
+## Conferences and Webinars ![images](https://github.com/user-attachments/assets/e7eb335c-8078-4c97-bc96-62c1d6e2e53b)
+
+* __RADAR AI: Data in the Age of ChatGPT & AI__
+* __GRC Request for Proposal Process__
+* __GRC Compliance and Ethics__
+* __GRC Audit and Assurance__
+* __Foundations of Breach and Attack Simulations__
+* __Cloud Security Done Right__
