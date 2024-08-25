@@ -1,4 +1,4 @@
-# Information Technology Curriculum Vitae
+# Cybersecurity Curriculum Vitae
 
 ## SUMMARY
 This CV is for use in coordination with my resume as I pursue a GRC position in AI Governance and Cloud Security. 
