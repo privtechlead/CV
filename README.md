@@ -89,7 +89,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 
 
 ## Acts, Orders, Regulations, Frameworks, Models,   ![Untitled](https://github.com/user-attachments/assets/2d50030e-1759-43b9-8e62-f781e501c6b4)
-## Policies, and Guides
+## Policies, and Guidelines
 
 * __NIST _ National Institute of Standards and Technology__
 * __ISO/IEC 27001 _ International Standard for Information Security Management__
