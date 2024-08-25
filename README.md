@@ -1,7 +1,7 @@
 # Information Technology Curriculum Vitae
 
 ## SUMMARY
-This CV is to be used in complement with my resume in pursuit of an AI Governance and Cloud Security GRC position. 
+This CV is for use in coordination with my resume as I pursue a GRC position in AI Governance and Cloud Security. 
 
 ## Professional Certification  
 CompTIA Security+ Certified
