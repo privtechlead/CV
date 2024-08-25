@@ -99,7 +99,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 * __HIPAA _ Health Insurance Portability and Accountability Act__
 * __GDPR _ General Data Protection Regulation__
 * __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
-* __NIST AI Risk Management franework _ National Institute of Standards and Technology__
+* __NIST AI Risk Management framework _ National Institute of Standards and Technology__
 * __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
 * __MITRE ATT&CK for Enterprise__
 * __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
