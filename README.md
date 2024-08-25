@@ -11,7 +11,7 @@ CompTIA Security+ Certified
 ## Governance, Risk, and Compliance (GRC)  
 
 * __AI Security & Governance Certification__
-https://github.com/privtechlead/Artificial-Intelligence-Security-and-Governance-certificate/blob/main/README.md
+
 
 * __Cloud Security Management: Data Security__
 https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge
