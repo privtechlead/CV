@@ -64,7 +64,7 @@ https://github.com/privtechlead/powershell-badge/blob/main/README.md
 
 ## Software and Tools  
 
-* __Masetering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
+* __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
 * __Introduction to Splunk__
 https://github.com/privtechlead/splunk-certificate/blob/main/README.md
@@ -78,7 +78,7 @@ https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 
 ## Labs and Projects   ![Untitled](https://github.com/user-attachments/assets/98c1eba0-8819-41f7-9e4f-875a4200eb5a)
 
-* __Masetering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
+* __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 * __CISCO Networking Basics__
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
