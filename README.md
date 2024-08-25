@@ -11,6 +11,8 @@ CompTIA Security+ Certified
 ## Governance, Risk, and Compliance (GRC)  
 
 * __AI Security & Governance Certification__
+
+* __Cloud Security Management: Data Security__
   
 * __Regulatory Change Management (RCM) Essentials__
 https://github.com/privtechlead/RCM-badge/blob/main/README.md
