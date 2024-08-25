@@ -17,6 +17,7 @@ https://github.com/privtechlead/AI-Security-and-Governance-certificate
 https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge
 
 * __Cloud Security Management: Legal and Compliance__
+https://github.com/privtechlead/Cloud-Security-Management-Legal-and-Compliance
   
 * __Regulatory Change Management (RCM) Essentials__
 https://github.com/privtechlead/RCM-badge/blob/main/README.md
