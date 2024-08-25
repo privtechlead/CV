@@ -98,7 +98,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 * __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
 * __MITRE ATT&CK for Enterprise__
 * __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
-* __CISA Cross-Sector Cybersecurity Performance Goals - Cybersecurity and Infrastructure Security Agency__
+* __CISA Cross-Sector Cybersecurity Performance Goals _ Cybersecurity and Infrastructure Security Agency__
 * __Gartner's AI TRISM framework (Trust, Risk, and Security Management)__
 * __Safe, Secure, Trustworthy Executive Order 14110 (Oct 2023)__
 * __European Union Artificial Intelligence Act__
