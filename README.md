@@ -72,10 +72,10 @@ https://github.com/privtechlead/powershell-badge/blob/main/README.md
 
 * __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
-* __Introduction to Splunk__
+* __Introduction to Splunk Certificate__
 https://github.com/privtechlead/splunk-certificate/blob/main/README.md
 
-* __Introduction to Splunk SOAR__
+* __Introduction to Splunk SOAR Certificate__
 https://github.com/privtechlead/splunk-soar-certificate/blob/main/README.md
 
 * __ServiceNow__
