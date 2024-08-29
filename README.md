@@ -12,7 +12,7 @@ CompTIA Security+ Certified
 
 * __CISM: Information Security Risk Management Certificate (certified by the Information Systems Audit and Control Association (ISACA))__
 
-* __AI Security & Governance Certification__
+* __AI Security & Governance Certificate__
 https://github.com/privtechlead/AI-Security-and-Governance-certificate
 
 * __Cloud Security Management: Data Security__
