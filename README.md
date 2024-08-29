@@ -93,16 +93,19 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 ## Acts, Orders, Regulations, Frameworks, Models,   ![Untitled](https://github.com/user-attachments/assets/2d50030e-1759-43b9-8e62-f781e501c6b4)
 ## Policies, and Guidelines
 
-* __NIST _ National Institute of Standards and Technology__
+* __NIST 800-39 _ National Institute of Standards and Technology, managing information security risk__
+* __NIST 800-30 _ National Institute of Standards and Technology, risk assessment__
+* __NIST SP 800-37 Risk Management framework (Rev.1) _ National Institute of Standards and Technology__
+* __NIST SP 800-37 Risk Management framework (Rev.2) _ National Institute of Standards and Technology__
+* __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
+* __NIST AI Risk Management framework _ National Institute of Standards and Technology__
+* __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
 * __ISO/IEC 27001 _ International Standard for Information Security Management__
 * __FISMA Act _ Federal Information Security Modernization Act of 2014__
 * __GLBA _ Gramm-Leach-Bliley Act__
 * __PCI DSS _ Payment Card Industry Data Security Standard__
 * __HIPAA _ Health Insurance Portability and Accountability Act__
 * __GDPR _ General Data Protection Regulation__
-* __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
-* __NIST AI Risk Management framework _ National Institute of Standards and Technology__
-* __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
 * __MITRE ATT&CK for Enterprise__
 * __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
 * __CISA Cross-Sector Cybersecurity Performance Goals _ Cybersecurity and Infrastructure Security Agency__
