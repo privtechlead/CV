@@ -10,7 +10,7 @@ CompTIA Security+ Certified
 
 ## Governance, Risk, and Compliance (GRC)  
 
-* __CISM: Information Security Risk Management (course certified by ISACA)__
+* __CISM: Information Security Risk Management Certificate (certified by the Information Systems Audit and Control Association (ISACA))__
 
 * __AI Security & Governance Certification__
 https://github.com/privtechlead/AI-Security-and-Governance-certificate
