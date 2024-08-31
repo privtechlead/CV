@@ -46,6 +46,8 @@ https://github.com/privtechlead/networking-badge/blob/main/README.md
  * __Security Operations Center Fundamentals__
 https://github.com/privtechlead/soc-fundamentals-badge/blob/main/README.md
 
+* __API Authentication__
+
  * __Amazon Web Services Identity and Access Management__
 https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
 
