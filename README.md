@@ -23,6 +23,7 @@ https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge
 https://github.com/privtechlead/cloud-sec-mngmnt-legal-and-compliance-badge
 
 * __API Security Fundamentals__
+https://github.com/privtechlead/API-Security-Fundamentals-badge
     
 * __Regulatory Change Management (RCM) Essentials__
 https://github.com/privtechlead/RCM-badge/blob/main/README.md
