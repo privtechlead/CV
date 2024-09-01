@@ -108,6 +108,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 * __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
 * __ISO/IEC 27001 _ International Standard for Information Security Management__
 * __OWASP API Security Top 10 _ Open Web Application Security Project__
+* __OPM SDLC _ United States Office of Personnel Management, System Development Life Cycle Policy and Standards v1.1 (April 2013)__
 * __FISMA Act _ Federal Information Security Modernization Act of 2014__
 * __GLBA _ Gramm-Leach-Bliley Act__
 * __PCI DSS _ Payment Card Industry Data Security Standard__
