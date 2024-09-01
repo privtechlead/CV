@@ -99,7 +99,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 ## Acts, Orders, Regulations, Frameworks, Models,   ![Untitled](https://github.com/user-attachments/assets/2d50030e-1759-43b9-8e62-f781e501c6b4)
 ## Policies, and Guidelines
 
-* __NIST 800-39 _ National Institute of Standards and Technology, managing information security risk__
+* NIST 800-39 _ National Institute of Standards and Technology, managing information security risk
 * __NIST 800-30 _ National Institute of Standards and Technology, risk assessment__
 * __NIST SP 800-37 Risk Management framework (Rev.1) _ National Institute of Standards and Technology__
 * __NIST SP 800-37 Risk Management framework (Rev.2) _ National Institute of Standards and Technology__
