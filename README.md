@@ -31,6 +31,8 @@ https://github.com/privtechlead/RCM-badge/blob/main/README.md
 * __Classic Risk Assessment Fundamentals__
 https://github.com/privtechlead/risk-assessment-badge/blob/main/README.md
 
+* __API Documentation Best Practices__
+
 *  __Preparing a Cyber Crisis Management Plan__
 https://github.com/privtechlead/crisis-planner-badge
 
