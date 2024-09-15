@@ -8,7 +8,7 @@ CompTIA Security+ Certified
 
 
 
-## Governance, Risk, and Compliance (GRC)  
+## Governance, Risk, and Compliance (GRC)  ![alt text](https://img.freepik.com/premium-photo/lady-sitting-desk-styleful-bright-office_641010-12588.jpg)
 
 * __CISM: Information Security Risk Management Certificate (certified by the Information Systems Audit and Control Association (ISACA))__
 https://github.com/privtechlead/CISM-Certificate
@@ -41,7 +41,7 @@ https://github.com/privtechlead/crisis-planner-badge
 https://github.com/privtechlead/security-incident-badge/blob/main/README.md
 
 
-## Skills ![alt text](https://img.freepik.com/premium-photo/lady-sitting-desk-styleful-bright-office_641010-12588.jpg)
+## Skills 
 
 
 *  __CISCO Networking Basics__
