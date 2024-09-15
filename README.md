@@ -139,4 +139,3 @@ https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
 * __AttackIQ: Foundations of Breach and Attack Simulations__
 * __AttackIQ: Cloud Security Done Right__
 
-![images](https://github.com/user-attachments/assets/f62ab3bd-db8e-48a9-8062-a90376835e79)
