@@ -38,8 +38,7 @@ https://github.com/privtechlead/crisis-planner-badge
 * __Writing a Report on Security Incident__
 https://github.com/privtechlead/security-incident-badge/blob/main/README.md
 
-## Skills ![images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F36%2F05%2F88%2F1000_F_336058881_JS6E42vYRoEm4DiORXBxst2s2PagU0Xe.jpg&f=1&nofb=1&ipt=94b8282489ad04a339aee125b359b20be6f679ddbc5567dfee94e5eb0d08437a&ipo=images)
-
+## Skills
 
 *  __CISCO Networking Basics__
 https://github.com/privtechlead/networking-badge/blob/main/README.md
