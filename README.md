@@ -87,8 +87,7 @@ https://github.com/privtechlead/splunk-soar-certificate/blob/main/README.md
 https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 
 
-## Labs and Projects   ![Untitled](https://github.com/user-attachments/assets/98c1eba0-8819-41f7-9e4f-875a4200eb5a)
-
+## Labs and Projects   ![alt text](https://th.bing.com/th/id/OIP.bMMYiJLNMN-zv6DI71VVeAHaEJ?w=295&h=180&c=7&r=0&o=5&pid=1.7)
 * __CISCO Networking Basics__
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
