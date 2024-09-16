@@ -95,7 +95,7 @@ https://github.com/privtechlead/networking-badge/blob/main/README.md
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 * __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
-## Acts, Orders, Regulations, Frameworks, Models,   ![Untitled](https://github.com/user-attachments/assets/2d50030e-1759-43b9-8e62-f781e501c6b4)
+## Acts, Orders, Regulations, Frameworks, Models,   ![alt text](http://1.bp.blogspot.com/-qhGlp4Nxotg/UFIOb-0B6vI/AAAAAAAAAZs/uZT5TrlahUs/s1600/book_stack.png)  
 ## Policies, and Guidelines
 
 * __NIST 800-39 _ National Institute of Standards and Technology, managing information security risk__
