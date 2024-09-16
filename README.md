@@ -126,8 +126,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
 
 
-## Conferences and Webinars ![images](https://github.com/user-attachments/assets/e7eb335c-8078-4c97-bc96-62c1d6e2e53b)
-
+## Conferences and Webinars ![alt text](https://th.bing.com/th/id/OIP.sWnKdSpaBAUDD1niw60h7AHaDh?w=304&h=166&c=7&r=0&o=5&pid=1.7)
 * __RADAR AI: Data in the Age of ChatGPT & AI__
 * __OCEG: GRC Request for Proposal Process__
 * __OCEG: GRC Compliance and Ethics__
