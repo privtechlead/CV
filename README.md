@@ -55,7 +55,7 @@ https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
 * __Technical Writing__
 
 
-## Programming and Scripting Languages   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
+## Programming and Scripting   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 
