@@ -1,7 +1,7 @@
 # Cybersecurity Curriculum Vitae
 
 ## SUMMARY
-This CV is for use in coordination with my resume as I pursue a GRC position in AI Governance, along with Application and Cloud Security. 
+This CV is for use in coordination with my resume as I pursue a GRC position in Application Security, Cloud Security, and AI Governance.
 
 ## Professional Certification  
 CompTIA Security+ Certified
