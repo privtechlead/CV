@@ -5,7 +5,7 @@ This CV is for use in coordination with my resume as I pursue a GRC position in 
 
 ## Professional Certification  
 CompTIA Security+ Certified 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab3d87bd-b5d7-47f6-a7ca-abeccf4069af" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 ## Governance, Risk, and Compliance (GRC) 
