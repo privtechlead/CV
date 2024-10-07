@@ -20,7 +20,7 @@ https://github.com/privtechlead/CISM-Certificate/blob/main/README.md
 https://github.com/privtechlead/AI-Security-and-Governance-certificate/blob/main/README.md
 
 * __Cloud Security Management: Data Security__
-https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge
+https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge/blob/main/README.md
 
 * __Cloud Security Management: Legal and Compliance__
 https://github.com/privtechlead/cloud-sec-mngmnt-legal-and-compliance-badge
