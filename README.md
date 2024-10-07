@@ -51,7 +51,7 @@ https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Security Operations Center Fundamentals__
 https://github.com/privtechlead/soc-fundamentals-badge/blob/main/README.md
 
-*__CI/CD for Beginners__
+* __CI/CD for Beginners__
 
 * __API Authentication__
 https://github.com/privtechlead/API-Authentication-badge
