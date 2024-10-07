@@ -52,6 +52,7 @@ https://github.com/privtechlead/networking-badge/blob/main/README.md
 https://github.com/privtechlead/soc-fundamentals-badge/blob/main/README.md
 
 * __CI/CD for Beginners__
+https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 
 * __API Authentication__
 https://github.com/privtechlead/API-Authentication-badge
@@ -99,6 +100,8 @@ https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
+* __CI/CD for Beginners__
+https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
 ## Acts, Orders, Regulations, Frameworks, Models, ![alt text](https://th.bing.com/th/id/OIP.BhxMp369PZ-55wULJRMgugHaIC?pid=ImgDet&w=137&h=148.6595744680851&c=7)
