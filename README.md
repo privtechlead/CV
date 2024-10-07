@@ -5,10 +5,12 @@ This CV is for use in coordination with my resume as I pursue a GRC position in 
 
 ## Professional Certification  
 CompTIA Security+ Certified 
+.
+.
+
+
+
 ![Screenshot 2024-10-07 at 18-59-49 CompTIA Security ce Certification - Credly](https://github.com/user-attachments/assets/48475d74-1da4-4b79-9a93-004d45c9d33d)
-
-
-
 
 ## Governance, Risk, and Compliance (GRC) 
 * __CISM: Information Security Risk Management Certificate (certified by the Information Systems Audit and Control Association (ISACA))__
