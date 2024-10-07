@@ -4,7 +4,8 @@
 This CV is for use in coordination with my resume as I pursue a GRC position in AI Governance and Cloud Security.
 
 ## Professional Certification  
-CompTIA Security+ Certified ![Screenshot 2024-10-07 at 18-59-49 CompTIA Security ce Certification - Credly](https://github.com/user-attachments/assets/48475d74-1da4-4b79-9a93-004d45c9d33d)
+CompTIA Security+ Certified 
+![Screenshot 2024-10-07 at 18-59-49 CompTIA Security ce Certification - Credly](https://github.com/user-attachments/assets/48475d74-1da4-4b79-9a93-004d45c9d33d)
 
 
 
