@@ -96,11 +96,11 @@ https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 
 
 ## Labs and Projects   ![alt text](https://th.bing.com/th/id/OIP.bMMYiJLNMN-zv6DI71VVeAHaEJ?w=295&h=180&c=7&r=0&o=5&pid=1.7)
-* __CISCO Networking Basics__
+* __CISCO Networking Basics _ Home Network build__
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
-* __CI/CD Pipeline build with Jenkins__
+* __CI/CD for Beginners _ Pipeline build with Jenkins__
 https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
