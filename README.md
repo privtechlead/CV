@@ -100,7 +100,7 @@ https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
-* __CI/CD for Beginners__
+* __CI/CD Pipeline build with Jenkins__
 https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __Mastering Wireshark Certificate URL__:  ude.my/UC-72c23801-1aa9-44e4-9faf-0a5b6546f32b
 
