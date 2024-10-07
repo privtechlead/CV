@@ -38,7 +38,7 @@ https://github.com/privtechlead/risk-assessment-badge/blob/main/README.md
 https://github.com/privtechlead/API-Documentation-badge/blob/main/README.md
 
 *  __Preparing a Cyber Crisis Management Plan__
-https://github.com/privtechlead/crisis-planner-badge
+https://github.com/privtechlead/crisis-planner-badge/blob/main/README.md
 
 * __Writing a Report on Security Incident__
 https://github.com/privtechlead/security-incident-badge/blob/main/README.md
