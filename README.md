@@ -17,7 +17,7 @@ CompTIA Security+ Certified
 https://github.com/privtechlead/CISM-Certificate/blob/main/README.md
 
 * __AI Security & Governance Certificate__
-https://github.com/privtechlead/AI-Security-and-Governance-certificate
+https://github.com/privtechlead/AI-Security-and-Governance-certificate/blob/main/README.md
 
 * __Cloud Security Management: Data Security__
 https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge
