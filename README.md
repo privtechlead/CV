@@ -5,8 +5,8 @@ This CV is for use in coordination with my resume as I pursue a GRC position in 
 
 ## Professional Certification  
 CompTIA Security+ Certified 
-.
-.
+
+
 
 
 
