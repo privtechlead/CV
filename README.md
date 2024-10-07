@@ -23,7 +23,7 @@ https://github.com/privtechlead/AI-Security-and-Governance-certificate/blob/main
 https://github.com/privtechlead/Cloud-Security-Management-Data-Secuirty-badge/blob/main/README.md
 
 * __Cloud Security Management: Legal and Compliance__
-https://github.com/privtechlead/cloud-sec-mngmnt-legal-and-compliance-badge
+https://github.com/privtechlead/cloud-sec-mngmnt-legal-and-compliance-badge/blob/main/README.md
 
 * __API Security Fundamentals__
 https://github.com/privtechlead/API-Security-Fundamentals-badge
