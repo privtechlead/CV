@@ -60,6 +60,9 @@ https://github.com/privtechlead/API-Authentication-badge/blob/main/README.md
 * __AWS Identity and Access Management__
 https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
 
+* __Introduction to Data Science in Python__
+https://github.com/privtechlead/data_science_in_python_certificate/blob/main/README.md
+
 * __Technical Writing__
 
 
