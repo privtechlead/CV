@@ -67,7 +67,7 @@ https://github.com/privtechlead/data_science_in_python_certificate/blob/main/REA
 
 
 ## Programming and Scripting   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
-* __Introduction to SQL
+* __Introduction to SQL__
 https://github.com/privtechlead/intro_SQL_certificate/blob/main/README.md
 
 * __Python for Blue Team__
