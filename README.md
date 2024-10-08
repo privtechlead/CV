@@ -52,7 +52,7 @@ https://github.com/privtechlead/networking-badge/blob/main/README.md
 https://github.com/privtechlead/soc-fundamentals-badge/blob/main/README.md
 
 * __CI/CD for Beginners__
-README.md
+https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 
 * __API Authentication__
 https://github.com/privtechlead/API-Authentication-badge/blob/main/README.md
