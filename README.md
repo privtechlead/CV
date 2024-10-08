@@ -70,6 +70,9 @@ https://github.com/privtechlead/data_science_in_python_certificate/blob/main/REA
 * __Introduction to SQL__
 https://github.com/privtechlead/intro_SQL_certificate/blob/main/README.md
 
+* __Intermediate SQL__
+https://github.com/privtechlead/intermed_SQL_certificate/blob/main/README.md
+
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 
