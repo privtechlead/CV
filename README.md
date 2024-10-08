@@ -71,7 +71,7 @@ https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
 https://github.com/privtechlead/powershell-badge/blob/main/README.md
 
 * __Introduction to Bash Scripting__
-
+https://github.com/privtechlead/bash_course/blob/main/README.md
 
 
 ## Operating Systems 
