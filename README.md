@@ -96,7 +96,7 @@ https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 
 
 ## Labs and Projects   ![alt text](https://th.bing.com/th/id/OIP.bMMYiJLNMN-zv6DI71VVeAHaEJ?w=295&h=180&c=7&r=0&o=5&pid=1.7)
-* __CISCO Networking Basics _ Home Network build__
+* __CISCO Networking Basics _ home network build, firewall configuration and maintenance__
 https://github.com/privtechlead/networking-badge/blob/main/README.md
 * __Python for Blue Team__
 https://github.com/privtechlead/python-for-blue-team/blob/main/README.md
