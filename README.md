@@ -57,7 +57,7 @@ https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __API Authentication__
 https://github.com/privtechlead/API-Authentication-badge/blob/main/README.md
 
-* __Amazon Web Services Identity and Access Management__
+* __AWS Identity and Access Management__
 https://github.com/privtechlead/AWS-IAM-badge/blob/main/README.md
 
 * __Technical Writing__
