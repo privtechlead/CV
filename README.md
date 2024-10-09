@@ -31,6 +31,9 @@ https://github.com/privtechlead/API-Security-Fundamentals-badge/blob/main/README
 * __Regulatory Change Management (RCM) Essentials__
 https://github.com/privtechlead/RCM-badge/blob/main/README.md
 
+* __Integrate Okta with Active Directory-Sourced Users__
+https://github.com/privtechlead/Okta_w_AD_certificate/blob/main/README.md
+
 * __Classic Risk Assessment Fundamentals__
 https://github.com/privtechlead/risk-assessment-badge/blob/main/README.md
 
