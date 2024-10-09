@@ -103,6 +103,8 @@ https://github.com/privtechlead/splunk-soar-certificate/blob/main/README.md
 * __ServiceNow__
 https://github.com/privtechlead/servicenow-badge/blob/main/README.md
 
+* __Improve Your Security Posture with Okta Identity Governance (OIG)__
+https://github.com/privtechlead/OIG_security_posture_certificate/blob/main/README.md
 
 ## Labs and Projects   ![alt text](https://th.bing.com/th/id/OIP.bMMYiJLNMN-zv6DI71VVeAHaEJ?w=295&h=180&c=7&r=0&o=5&pid=1.7)
 * __CISCO Networking Basics _ home network build__
