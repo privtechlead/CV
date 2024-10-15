@@ -1,7 +1,7 @@
 # Cybersecurity Curriculum Vitae
 
 ## SUMMARY
-This CV is for use in coordination with my resume as I pursue a subject matter expert (SME) position in AI Governance and Cloud Security.
+This CV is for use as reference as I pursue a subject matter expert (SME) position in AI Governance and Cloud Security.
 
 ## Professional Certification  
 CompTIA Security+ Certified 
