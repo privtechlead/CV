@@ -69,7 +69,7 @@ https://github.com/privtechlead/data_science_in_python_certificate/blob/main/REA
 * __Technical Writing__
 
 
-## Programming and Scripting   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
+## Languages   ![alt text](https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif)
 * __Introduction to SQL__
 https://github.com/privtechlead/intro_SQL_certificate/blob/main/README.md
 
