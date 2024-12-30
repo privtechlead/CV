@@ -134,10 +134,10 @@ https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __OPM SDLC _ United States Office of Personnel Management, System Development Life Cycle Policy and Standards v1.1 (April 2013)__
 * __FISMA Act _ Federal Information Security Modernization Act of 2014__
 * __GLBA _ Gramm-Leach-Bliley Act__
+*  __CCPA _ California Consumer Privacy Act__
 * __PCI DSS _ Payment Card Industry Data Security Standard__
 * __HIPAA _ Health Insurance Portability and Accountability Act__
 * __GDPR _ General Data Protection Regulation__
-* __CCPA _ California Consumer Privacy Act__
 * __MITRE ATT&CK for Enterprise__
 * __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
 * __CISA Cross-Sector Cybersecurity Performance Goals _ Cybersecurity and Infrastructure Security Agency__
