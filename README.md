@@ -123,29 +123,30 @@ https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 
 
 * __NIST 800-39__ _ National Institute of Standards and Technology, managing information security risk
-* __NIST 800-30 ___ National Institute of Standards and Technology, risk assessment__
-* __NIST SP 800-37 Risk Management framework (Rev.1) _ National Institute of Standards and Technology__
-* __NIST SP 800-37 Risk Management framework (Rev.2) _ National Institute of Standards and Technology__
-* __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
-* __NIST AI Risk Management framework _ National Institute of Standards and Technology__
-* __NIST AI Readiness Assessment _ National Institute of Standards and Technology__
-* __ISO/IEC 27001 _ International Standard for Information Security Management__
-* __OWASP API Security Top 10 _ Open Web Application Security Project__
-* __OPM SDLC _ United States Office of Personnel Management, System Development Life Cycle Policy and Standards v1.1 (April 2013)__
-* __FISMA Act _ Federal Information Security Modernization Act of 2014__
-* __GLBA _ Gramm-Leach-Bliley Act__
-*  __CCPA _ California Consumer Privacy Act__
-* __PCI DSS _ Payment Card Industry Data Security Standard__
-* __HIPAA _ Health Insurance Portability and Accountability Act__
-* __GDPR _ General Data Protection Regulation__
+* __NIST 800-30__ _ National Institute of Standards and Technology, risk assessment
+* __NIST SP 800-37 Risk Management framework (Rev.1)__ _ National Institute of Standards and Technology
+* __NIST SP 800-37 Risk Management framework (Rev.2)__ _ National Institute of Standards and Technology
+* __NIST CSF 2.0__ _ National Institute of Standards and Technology, cybersecurity framework
+* __NIST AI Risk Management framework__ _ National Institute of Standards and Technology
+* __NIST AI Readiness Assessment__ _ National Institute of Standards and Technology
+* __ISO/IEC 27001__ _ International Standard for Information Security Management
+* __SOC 2__ _ System and Organization Controls 2
+* __OWASP API Security Top 10__ _ Open Web Application Security Project
+* __OPM SDLC__ -  United States Office of Personnel Management, System Development Life Cycle Policy and Standards v1.1 (April 2013)
+* __FISMA Act__ _ Federal Information Security Modernization Act of 2014
+* __GLBA__ _ Gramm-Leach-Bliley Act
+*  __CCPA__ _ California Consumer Privacy Act
+* __PCI DSS__ _ Payment Card Industry Data Security Standard
+* __HIPAA__ _ Health Insurance Portability and Accountability Act
+* __GDPR__ _ General Data Protection Regulation
 * __MITRE ATT&CK for Enterprise__
-* __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
-* __CISA Cross-Sector Cybersecurity Performance Goals _ Cybersecurity and Infrastructure Security Agency__
+* __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update)__ _ Cybersecurity and Infrastructure Security Agency
+* __CISA Cross-Sector Cybersecurity Performance Goals__ _ Cybersecurity and Infrastructure Security Agency
 * __Gartner's AI TRISM framework (Trust, Risk, and Security Management)__
 * __Safe, Secure, Trustworthy Executive Order 14110 (Oct 2023)__
 * __European Union Artificial Intelligence Act__
 * __European Union Artificial Intelligence Act Readiness Assessment__
-* __OECD AI Risk Management framework _ Organization for Economic Co-operation and Development__
+* __OECD AI Risk Management framework__ _ Organization for Economic Co-operation and Development
 * __OCEG GRC Compatibility Model v3.5__
 * __Cyber Kill Chain__
 https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
