@@ -137,6 +137,7 @@ https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 * __PCI DSS _ Payment Card Industry Data Security Standard__
 * __HIPAA _ Health Insurance Portability and Accountability Act__
 * __GDPR _ General Data Protection Regulation__
+* __CCPA _ California Consumer Privacy Act__
 * __MITRE ATT&CK for Enterprise__
 * __CISA #StopRansomware: Blacksuit (Royal) Ransomware (Aug 7, 2024 Update) _ Cybersecurity and Infrastructure Security Agency__
 * __CISA Cross-Sector Cybersecurity Performance Goals _ Cybersecurity and Infrastructure Security Agency__
