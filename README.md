@@ -122,8 +122,8 @@ https://github.com/privtechlead/CI-CD-badge/blob/main/README.md
 ## Policies, and Guidelines
 
 
-* __NIST 800-39 _ National Institute of Standards and Technology, managing information security risk__
-* __NIST 800-30 _ National Institute of Standards and Technology, risk assessment__
+* __NIST 800-39__ _ National Institute of Standards and Technology, managing information security risk
+* __NIST 800-30 ___ National Institute of Standards and Technology, risk assessment__
 * __NIST SP 800-37 Risk Management framework (Rev.1) _ National Institute of Standards and Technology__
 * __NIST SP 800-37 Risk Management framework (Rev.2) _ National Institute of Standards and Technology__
 * __NIST CSF 2.0 _ National Institute of Standards and Technology, cybersecurity framework__
