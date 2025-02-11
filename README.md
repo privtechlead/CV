@@ -159,18 +159,6 @@ https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
 * __OCEG: GRC Audit and Assurance__
 * __AttackIQ: Foundations of Breach and Attack Simulations__
 * __AttackIQ: Cloud Security Done Right__
-* __CISCO: AI Summit (January 2025)__
-
- - AI in Enterprise
- - Silicon and AI: Exploring Silicone Advancements
- - Data and AI: Exploring AI's Next Frontier
- - Security for AI
- - Health and AI: AI's Role in Health and Humanity
- - Coding and AI: The Future of Coding and Development
- - Governance and AI: Ways to Operationalize and Scale AI Governance
- - Marketing and AI
- - Capital Markets and AI
- - AI and 3D: Redefining Reality
- - AI and Security: A Robust and Resilient AI Infrastructure
+* __CISCO: AI Summit (January 2025)__ - AI in Enterprise; Silicon and AI: Exploring Silicone Advancements; Data and AI: Exploring AI's Next Frontier; Security for AI; Health and AI: AI's Role in Health and Humanity; Coding and AI: The Future of Coding and Development; Governance and AI: Ways to Operationalize and Scale AI Governance; Marketing and AI; Capital Markets and AI; AI and 3D: Redefining Reality; AI and Security: A Robust and Resilient AI Infrastructure
   
 
