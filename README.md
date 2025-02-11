@@ -160,5 +160,7 @@ https://github.com/privtechlead/cyber-kill-chain-badge/blob/main/README.md
 * __AttackIQ: Foundations of Breach and Attack Simulations__
 * __AttackIQ: Cloud Security Done Right__
 * __CISCO: AI Summit (January 2025)__
-    •Silicon and AI: Exploring Silicone Advancements
+
+  •Silicon and AI: Exploring Silicone Advancements
+  
 
