@@ -1,4 +1,4 @@
-# Cybersecurity Curriculum Vitae
+# Curriculum Vitae
 
 ## SUMMARY
 This CV is for use in coordination with my resume as I pursue a position in Governance, Risk, and Compliance.
